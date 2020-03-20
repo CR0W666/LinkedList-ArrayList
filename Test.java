@@ -7,7 +7,7 @@ import java.util.ListIterator;
 
 class Test {
     public static void main(String[] args) {
-        System.out.println("RRAYLIST: ");
+        System.out.println("ARRAYLIST: ");
         // ARRAYLIST:
         /*
         * int TestArray[] = new int[5]; || {1,2,3,4,5}; Cant change size
